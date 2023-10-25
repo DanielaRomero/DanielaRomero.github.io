@@ -1,4 +1,6 @@
-#personalBrand{
+.personalBrand{
     font-family: Pacifico, cursive;
-    text-align: center;
+}
+body{
+    background-color: #f1f0ff;
 }
